@@ -1,0 +1,30 @@
+library(TSA)
+library(forecast)
+par(family = "AppleGothic")
+
+getwd()
+setwd(dir = "/Users/jaeminiman/documents/GitHub/seoul_metro_profit_analysis/data")
+df <- read.csv('data3.csv')
+df <- as.matrix(df)
+df <- df[,2:ncol(df)]
+df <- c(t(df))
+df <- df[!is.na(df)]
+
+data_ts <- ts(data=df, start=c(2019, 1), frequency=12)
+data_ts
+
+plot(data_ts, main = "월별 지하철 탑승 승객 수")
+
+#monthplot
+monthplot(data_ts)
+
+#decomposed plot
+plot(data_ts, main = "지하철 탑승객 수 -- seasonal Adjustments", ylim=c(0.8e8, 1.8e8))
+lines(seasadj(decompose(data_ts)), col=2, lwd=2)
+
+#seasonal plot
+seasonplot(data_ts, col=rainbow(6), year.labels = T)
+
+#decomposed plot
+plot(decompose(data_ts, type='additive'))
+
