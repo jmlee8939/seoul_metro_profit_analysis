@@ -8,11 +8,11 @@
 
 |Q1. 서울교통공사의 적자는 얼마나 커지고 있나?| Q2. 코로나 이후 전철 이용객 수는 얼마나 줄었나?|
 |--|--|
-|||
+|<img src='https://user-images.githubusercontent.com/58785929/224740248-d24bff8a-7126-4d5a-bf17-57366121ea52.png' width=200/>|<img src='https://user-images.githubusercontent.com/58785929/224740155-c6d4dca6-51c1-428e-9405-3dd7a34dfa2b.png' width=300/>|
 
 |Q3. 이용객 수 변화가 수익에 미치는 영향?| Q4. 노령화로 인한 무임승객 증가의 영향?|
 |--|--|
-|||
+|<img src='https://user-images.githubusercontent.com/58785929/224740129-7351b72f-0341-4291-8e7e-cde80c8703ea.png' width=300/>|<img src='https://user-images.githubusercontent.com/58785929/224740181-fcd3e8c9-5c3c-43e7-8798-680fa70477b8.png' width=200/>|
 
 <p align="center">
 <img src='https://user-images.githubusercontent.com/58785929/224740248-d24bff8a-7126-4d5a-bf17-57366121ea52.png' width=400/><br>
