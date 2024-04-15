@@ -14,6 +14,9 @@
 |--|--|
 |<img src='https://user-images.githubusercontent.com/58785929/224740129-7351b72f-0341-4291-8e7e-cde80c8703ea.png' width=600/>|<img src='https://user-images.githubusercontent.com/58785929/224740181-fcd3e8c9-5c3c-43e7-8798-680fa70477b8.png' width=400/>|
 
-# 데이터 출처
-- [KOSIS](https://kosis.kr/index/index.do)
-- [공공데이터포털](https://www.data.go.kr)
+## 정리글
+[DP20블로그](https://jmlee8939.github.io/%EC%84%9C%EC%9A%B8%EA%B5%90%ED%86%B5%EA%B3%B5%EC%82%AC/)
+
+## 데이터 출처
+[KOSIS](https://kosis.kr/index/index.do)
+[공공데이터포털](https://www.data.go.kr)
